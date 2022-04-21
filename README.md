@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lautaroghezan
 - 👀 I’m interested in estadística
 - 🌱 I’m currently learning ciencia y tecnologia
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on energías renovables
 - 📫 How to reach me lautaroghezan@gmail.com
 
 <!---
